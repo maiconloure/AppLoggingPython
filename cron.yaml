@@ -1,0 +1,4 @@
+cron:
+# - description: "Start Log Catcher"
+#   url: /logger_catcher?subscribers=test-sub
+#   schedule: every 1 hours
